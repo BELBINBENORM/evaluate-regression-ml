@@ -1,4 +1,3 @@
-# my_lib
 ## select_regression.py — README
 
 Overview
